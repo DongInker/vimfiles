@@ -5,6 +5,7 @@ https://donginker.github.io/
     * 
     * 对vimfiles解压复制到电脑用户目录C:\Users\Cindy\
     * 
+    * 解压C:\Users\Cindy\bundle.rar到当前文件
     * 双击C:\Users\Cindy\vimfiles\_DIY\gvim82.exe安装vim
     * 双击C:\Users\Cindy\vimfiles\_DIY\Hack-Regular.ttf VeraMono.ttf安装字体
     *   将C:\Users\Cindy\vimfiles\_DIY\_vimrc文件复制替换C:\Program Files (x86)\Vim\_vimrc文件
@@ -12,6 +13,7 @@ https://donginker.github.io/
 
 
 #主要功能
+* 插件有.git文件无法提交到github 所以压缩后提交
 * 常用插件--bundle
     * a.vim
     * auto-pairs
